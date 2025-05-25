@@ -11,8 +11,6 @@ A responsive landing page for **Ronin**, a modern ecommerce store, built with HT
   - Hero banner with call-to-action
   - Featured products/categories
   - Promotional offers
-  - Customer testimonials
-  - Newsletter subscription
   - Footer with links
 
 ## Technologies Used
