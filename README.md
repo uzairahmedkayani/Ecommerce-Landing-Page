@@ -19,7 +19,6 @@ A responsive landing page for **Ronin**, a modern ecommerce store, built with HT
 - CSS3
 - [Bootstrap 5](https://getbootstrap.com/)
 - Font Awesome (for icons, if used)
-- Google Fonts (if custom fonts are used)
 
 ## Installation
 
